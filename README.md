@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bardiansh, I`m a web developer, Machine Learning Programmer, Wordpress developer.
+- 👋 Hi, I’m @Bardiansh, I`m a web developer, Machine Learning Programmer,Python programmer, Wordpress developer.
 - 👀 I’m interested in Programming, developing and design websites, Evaluating datasets with Machine Learning, Create Wordpress Theme and Plugin.
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on on machine learning projects, data science tasks, and web development. Let’s build innovative solutions together!
