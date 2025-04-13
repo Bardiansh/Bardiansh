@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bardiansh 👋</h1>
+<h1 align="center">Hi, I'm Bardia Nasiri Sharaf 👋</h1>
 
 <p align="center">
   🎓 Materials Science at FAU Erlangen-Nürnberg University <br>
