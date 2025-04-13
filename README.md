@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bardiansh 👋</h1>
 
 <p align="center">
-  🎓 Materials Science at FAU Erlangen-Nürnberg <br>
+  🎓 Materials Science at FAU Erlangen-Nürnberg University <br>
   🧪 Science Enthusiast & Exploring Machine Learning for real-world scientific problems <br>
   🌐 Building interactive websites to share science & tech projects <br>
   🔍 Always curious, always building!
