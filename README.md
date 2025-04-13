@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Bardiansh 👋</h1>
 
 <p align="center">
-  🎓 Materials Science & Data Science Enthusiast <br>
-  🧪 Exploring Machine Learning for real-world scientific problems <br>
+  🎓 Materials Science at FAU Erlangen-Nürnberg <br>
+  🧪 Science Enthusiast & Exploring Machine Learning for real-world scientific problems <br>
   🌐 Building interactive websites to share science & tech projects <br>
   🔍 Always curious, always building!
 </p>
