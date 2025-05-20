@@ -28,6 +28,7 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-333?logo=visual-studio-code)
 ![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?logo=css3)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?logo=powerbi&logoColor=white)
 
 ---
 
